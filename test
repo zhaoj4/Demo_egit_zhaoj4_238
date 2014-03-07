@@ -1,1 +1,2 @@
 a testing file in test_branch
+modify the file in master, but the file is not displayed in Eclipse Navigator, why?
