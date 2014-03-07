@@ -1,5 +1,6 @@
 /**
  * edit a project in git
+ * modify the file in Eclipse
  * @author zhaoj4
  *
  */
